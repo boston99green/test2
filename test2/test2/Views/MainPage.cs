@@ -4,6 +4,9 @@ using Xamarin.Forms;
 
 namespace test2
 {
+    /// <summary>
+    /// F1 branch
+    /// </summary>
     public class MainPage : TabbedPage
     {
         public MainPage()
